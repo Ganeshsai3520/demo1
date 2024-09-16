@@ -6,7 +6,9 @@ public class git_prac {
 	System.out.println("2 changes Done");
 	System.out.println("3 changes Done");
 	System.out.println("4 changes Done");
+		
 	System.out.println("5 changes Done");
 	System.out.println("6 changes Done");
+	System.out.println("7 changes Done");
 }
 }
